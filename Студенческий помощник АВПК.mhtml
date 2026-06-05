@@ -1,0 +1,586 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://skylavv.github.io/AHPC-Student_Helper/
+Subject: =?utf-8?Q?=D0=A1=D1=82=D1=83=D0=B4=D0=B5=D0=BD=D1=87=D0=B5=D1=81=D0=BA=D0?=
+ =?utf-8?Q?=B8=D0=B9=20=D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D0=BD=D0=B8=D0=BA=20?=
+ =?utf-8?Q?=D0=90=D0=92=D0=9F=D0=9A?=
+Date: Fri, 5 Jun 2026 09:53:07 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ut2hDhmZ9sXNVlDYmRJAB8og4tzxzZKUclMxMF2NWq----"
+
+
+------MultipartBoundary--ut2hDhmZ9sXNVlDYmRJAB8og4tzxzZKUclMxMF2NWq----
+Content-Type: text/html
+Content-ID: <frame-2D7FC21A20EDF9A3012D62514F25AA10@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://skylavv.github.io/AHPC-Student_Helper/
+
+<!DOCTYPE html><html lang=3D"ru"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <meta name=3D"theme-color" content=3D"#1F4E79">
+  <meta name=3D"description" content=3D"=D0=9F=D1=80=D0=B8=D0=BB=D0=BE=D0=
+=B6=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BB=D1=8F =D1=81=D1=82=D1=83=D0=B4=D0=
+=B5=D0=BD=D1=82=D0=BE=D0=B2 =D0=90=D0=92=D0=9F=D0=9A">
+  <title>=D0=A1=D1=82=D1=83=D0=B4=D0=B5=D0=BD=D1=87=D0=B5=D1=81=D0=BA=D0=B8=
+=D0=B9 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D0=BD=D0=B8=D0=BA =D0=90=D0=92=D0=9F=
+=D0=9A</title>
+  <link rel=3D"manifest" href=3D"https://skylavv.github.io/AHPC-Student_Hel=
+per/manifest.json">
+  <link rel=3D"apple-touch-icon" href=3D"https://skylavv.github.io/AHPC-Stu=
+dent_Helper/icons/icon-192.png">
+  <link rel=3D"stylesheet" href=3D"https://skylavv.github.io/AHPC-Student_H=
+elper/css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1 id=3D"page-title">=D0=93=D0=BB=D0=B0=D0=B2=D0=BD=D0=B0=D1=8F</h1>
+    <button id=3D"theme-btn" class=3D"icon-btn" title=3D"=D0=9F=D0=B5=D1=80=
+=D0=B5=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=8C =D1=82=D0=B5=D0=BC=D1=83">=
+=F0=9F=8C=99</button>
+  </header>
+
+  <main id=3D"app">
+
+    <section id=3D"home" class=3D"screen active">
+      <div class=3D"welcome-banner">
+        <div class=3D"welcome-emoji">=F0=9F=8E=93</div>
+        <h2 id=3D"welcome-title">=D0=94=D0=BE=D0=B1=D1=80=D0=BE=D0=B5 =D1=
+=83=D1=82=D1=80=D0=BE, =D1=81=D1=82=D1=83=D0=B4=D0=B5=D0=BD=D1=82! =F0=9F=
+=91=8B</h2>
+        <p id=3D"welcome-date" class=3D"welcome-date">=D0=9F=D1=8F=D1=82=D0=
+=BD=D0=B8=D1=86=D0=B0, 5 =D0=B8=D1=8E=D0=BD 2026</p>
+      </div>
+
+      <div class=3D"stats-grid">
+        <div class=3D"stat-card">
+          <div class=3D"stat-num" id=3D"stat-active-tasks">0</div>
+          <div class=3D"stat-label">=D0=90=D0=BA=D1=82=D0=B8=D0=B2=D0=BD=D1=
+=8B=D1=85 =D0=B7=D0=B0=D0=B4=D0=B0=D1=87</div>
+        </div>
+        <div class=3D"stat-card">
+          <div class=3D"stat-num" id=3D"stat-done-tasks">0</div>
+          <div class=3D"stat-label">=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=
+=B5=D0=BD=D0=BE</div>
+        </div>
+        <div class=3D"stat-card">
+          <div class=3D"stat-num" id=3D"stat-notes">0</div>
+          <div class=3D"stat-label">=D0=97=D0=B0=D0=BC=D0=B5=D1=82=D0=BE=D0=
+=BA</div>
+        </div>
+        <div class=3D"stat-card">
+          <div class=3D"stat-num" id=3D"stat-grades">0</div>
+          <div class=3D"stat-label">=D0=9E=D1=86=D0=B5=D0=BD=D0=BE=D0=BA</d=
+iv>
+        </div>
+      </div>
+
+      <div class=3D"card">
+        <button id=3D"reset-btn" class=3D"btn btn-danger btn-full">
+          =D0=A1=D0=B1=D1=80=D0=BE=D1=81=D0=B8=D1=82=D1=8C =D0=B2=D1=81=D0=
+=B5 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5
+        </button>
+      </div>
+    </section>
+
+    <section id=3D"tasks" class=3D"screen">
+      <form id=3D"task-form" class=3D"input-row">
+        <input type=3D"text" id=3D"task-input" placeholder=3D"=D0=A7=D1=82=
+=D0=BE =D0=BD=D1=83=D0=B6=D0=BD=D0=BE =D1=81=D0=B4=D0=B5=D0=BB=D0=B0=D1=82=
+=D1=8C?" autocomplete=3D"off">
+        <button type=3D"submit" class=3D"btn btn-icon">+</button>
+      </form>
+
+      <div id=3D"task-stats" class=3D"stat-line"></div>
+
+      <div class=3D"filter-row">
+        <button class=3D"filter-btn active" data-filter=3D"all">=D0=92=D1=
+=81=D0=B5</button>
+        <button class=3D"filter-btn" data-filter=3D"active">=D0=90=D0=BA=D1=
+=82=D0=B8=D0=B2=D0=BD=D1=8B=D0=B5</button>
+        <button class=3D"filter-btn" data-filter=3D"done">=D0=92=D1=8B=D0=
+=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5</button>
+      </div>
+
+      <div id=3D"task-list"><div class=3D"empty-state"><span class=3D"empty=
+-state-icon">=E2=9C=85</span>=D0=9D=D0=B5=D1=82 =D0=B7=D0=B0=D0=B4=D0=B0=D1=
+=87 =D0=B2 =D1=8D=D1=82=D0=BE=D0=B9 =D0=BA=D0=B0=D1=82=D0=B5=D0=B3=D0=BE=D1=
+=80=D0=B8=D0=B8</div></div>
+    </section>
+
+    <section id=3D"notes" class=3D"screen">
+      <form id=3D"note-form">
+        <input type=3D"text" id=3D"note-title" placeholder=3D"=D0=97=D0=B0=
+=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BE=D0=BA =D0=B7=D0=B0=D0=BC=D0=B5=D1=82=
+=D0=BA=D0=B8" autocomplete=3D"off">
+        <textarea id=3D"note-content" placeholder=3D"=D0=A2=D0=B5=D0=BA=D1=
+=81=D1=82 =D0=B7=D0=B0=D0=BC=D0=B5=D1=82=D0=BA=D0=B8..." rows=3D"4"></texta=
+rea>
+        <button type=3D"submit" class=3D"btn btn-full">=D0=A1=D0=BE=D1=85=
+=D1=80=D0=B0=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=B0=D0=BC=D0=B5=D1=82=D0=BA=
+=D1=83</button>
+      </form>
+      <div id=3D"note-list" style=3D"margin-top:20px;"><div class=3D"empty-=
+state"><span class=3D"empty-state-icon">=F0=9F=93=9D</span>=D0=9D=D0=B5=D1=
+=82 =D0=B7=D0=B0=D0=BC=D0=B5=D1=82=D0=BE=D0=BA</div></div>
+    </section>
+
+    <section id=3D"grades" class=3D"screen">
+      <form id=3D"grade-form">
+        <input type=3D"text" id=3D"grade-subject" placeholder=3D"=D0=9D=D0=
+=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D0=BC=D0=
+=B5=D1=82=D0=B0" autocomplete=3D"off">
+        <select id=3D"grade-value">
+          <option value=3D"">=D0=92=D1=8B=D0=B1=D0=B5=D1=80=D0=B8=D1=82=D0=
+=B5 =D0=BE=D1=86=D0=B5=D0=BD=D0=BA=D1=83</option>
+          <option value=3D"5">5 =E2=80=94 =D0=BE=D1=82=D0=BB=D0=B8=D1=87=D0=
+=BD=D0=BE</option>
+          <option value=3D"4">4 =E2=80=94 =D1=85=D0=BE=D1=80=D0=BE=D1=88=D0=
+=BE</option>
+          <option value=3D"3">3 =E2=80=94 =D1=83=D0=B4=D0=BE=D0=B2=D0=BB=D0=
+=B5=D1=82=D0=B2=D0=BE=D1=80=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE</opti=
+on>
+          <option value=3D"2">2 =E2=80=94 =D0=BD=D0=B5=D1=83=D0=B4=D0=BE=D0=
+=B2=D0=BB=D0=B5=D1=82=D0=B2=D0=BE=D1=80=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D0=BE</option>
+        </select>
+        <button type=3D"submit" class=3D"btn btn-full">+ =D0=94=D0=BE=D0=B1=
+=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BE=D1=86=D0=B5=D0=BD=D0=BA=D1=83</button=
+>
+      </form>
+      <div id=3D"grade-summary" style=3D"margin-top:20px;"></div>
+      <div id=3D"grade-list" style=3D"margin-top:12px;"><div class=3D"empty=
+-state"><span class=3D"empty-state-icon">=F0=9F=93=8A</span>=D0=9D=D0=B5=D1=
+=82 =D0=BE=D1=86=D0=B5=D0=BD=D0=BE=D0=BA</div></div>
+    </section>
+
+    <section id=3D"schedule" class=3D"screen">
+      <div id=3D"day-tabs" class=3D"day-tabs"><button class=3D"day-tab" dat=
+a-day=3D"0">=D0=9F=D0=BD</button><button class=3D"day-tab" data-day=3D"1">=
+=D0=92=D1=82</button><button class=3D"day-tab" data-day=3D"2">=D0=A1=D1=80<=
+/button><button class=3D"day-tab" data-day=3D"3">=D0=A7=D1=82</button><butt=
+on class=3D"day-tab active today" data-day=3D"4">=D0=9F=D1=82</button><butt=
+on class=3D"day-tab" data-day=3D"5">=D0=A1=D0=B1</button></div>
+
+      <form id=3D"lesson-form">
+        <input type=3D"time" id=3D"lesson-time">
+        <input type=3D"text" id=3D"lesson-subject" placeholder=3D"=D0=9F=D1=
+=80=D0=B5=D0=B4=D0=BC=D0=B5=D1=82" autocomplete=3D"off">
+        <input type=3D"text" id=3D"lesson-room" placeholder=3D"=D0=90=D1=83=
+=D0=B4=D0=B8=D1=82=D0=BE=D1=80=D0=B8=D1=8F (=D0=BD=D0=B5=D0=BE=D0=B1=D1=8F=
+=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE)" autocomplete=3D"off">
+        <button type=3D"submit" class=3D"btn btn-full">+ =D0=94=D0=BE=D0=B1=
+=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=BF=D0=B0=D1=80=D1=83</button>
+      </form>
+
+      <div id=3D"lesson-list" style=3D"margin-top:20px;"><div class=3D"empt=
+y-state"><span class=3D"empty-state-icon">=F0=9F=93=85</span>=D0=9F=D0=B0=
+=D1=80 =D0=BD=D0=B5=D1=82 =E2=80=94 =D0=B2=D1=8B=D1=85=D0=BE=D0=B4=D0=BD=D0=
+=BE=D0=B9!</div></div>
+    </section>
+
+  </main>
+
+  <nav class=3D"bottom-nav">
+    <button data-screen=3D"home" class=3D"active">=F0=9F=8F=A0<span>=D0=93=
+=D0=BB=D0=B0=D0=B2=D0=BD=D0=B0=D1=8F</span></button>
+    <button data-screen=3D"tasks">=E2=9C=93<span>=D0=97=D0=B0=D0=B4=D0=B0=
+=D1=87=D0=B8</span></button>
+    <button data-screen=3D"notes">=F0=9F=93=9D<span>=D0=97=D0=B0=D0=BC=D0=
+=B5=D1=82=D0=BA=D0=B8</span></button>
+    <button data-screen=3D"grades">=F0=9F=93=8A<span>=D0=9E=D1=86=D0=B5=D0=
+=BD=D0=BA=D0=B8</span></button>
+    <button data-screen=3D"schedule">=F0=9F=93=85<span>=D0=A0=D0=B0=D1=81=
+=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5</span></button>
+  </nav>
+
+ =20
+
+
+</body></html>
+------MultipartBoundary--ut2hDhmZ9sXNVlDYmRJAB8og4tzxzZKUclMxMF2NWq----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOOaBXso.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C=
+8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIMeaBXso.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOuaBXso.woff2") format("woff2"); unicode-range: U+102-103, U+110-111=
+, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-3=
+09, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIO-aBXso.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5=
+, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00=
+-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, =
+U+A720-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 400; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofINeaB.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-15=
+3, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC=
+, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 600; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOOaBXso.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C=
+8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 600; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIMeaBXso.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 600; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOuaBXso.woff2") format("woff2"); unicode-range: U+102-103, U+110-111=
+, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-3=
+09, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 600; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIO-aBXso.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5=
+, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00=
+-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, =
+U+A720-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 600; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofINeaB.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-15=
+3, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC=
+, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOOaBXso.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C=
+8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIMeaBXso.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOuaBXso.woff2") format("woff2"); unicode-range: U+102-103, U+110-111=
+, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-3=
+09, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIO-aBXso.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5=
+, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00=
+-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, =
+U+A720-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 700; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofINeaB.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-15=
+3, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC=
+, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOOaBXso.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C=
+8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIMeaBXso.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+=
+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIOuaBXso.woff2") format("woff2"); unicode-range: U+102-103, U+110-111=
+, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-3=
+09, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofIO-aBXso.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5=
+, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00=
+-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, =
+U+A720-A7FF; }
+
+@font-face { font-family: Nunito; font-style: normal; font-weight: 800; fon=
+t-display: swap; src: url("https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li=
+01BKofINeaB.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-15=
+3, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC=
+, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--ut2hDhmZ9sXNVlDYmRJAB8og4tzxzZKUclMxMF2NWq----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://skylavv.github.io/AHPC-Student_Helper/css/style.css
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DNunito:wght@400;600=
+;700;800&display=3Dswap");
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; -webkit-tap-highligh=
+t-color: transparent; }
+
+:root { --bg: #f0f4f8; --surface: #ffffff; --surface2: #e8edf2; --text: #1a=
+2332; --text-muted: #6b7a8d; --primary: #1F4E79; --primary-light: #2d6ea8; =
+--accent: #f59e0b; --danger: #dc2626; --success: #16a34a; --border: #dde3ea=
+; --shadow: 0 2px 8px rgba(0,0,0,0.08); --shadow-lg: 0 4px 20px rgba(0,0,0,=
+0.12); --radius: 12px; --radius-lg: 18px; --nav-h: 68px; --header-h: 58px; =
+--font: 'Nunito', -apple-system, sans-serif; }
+
+body.dark { --bg: #0f1923; --surface: #1a2535; --surface2: #243040; --text:=
+ #e8edf5; --text-muted: #8a97a8; --primary: #4dabf7; --primary-light: #74c0=
+fc; --accent: #fbbf24; --border: #2d3d50; --shadow: 0 2px 8px rgba(0,0,0,0.=
+3); --shadow-lg: 0 4px 20px rgba(0,0,0,0.4); }
+
+html { height: 100%; }
+
+body { font-family: var(--font); background: var(--bg); color: var(--text);=
+ min-height: 100vh; padding-bottom: calc(var(--nav-h) + 8px); transition: b=
+ackground 0.3s, color 0.3s; }
+
+header { position: sticky; top: 0px; z-index: 50; background: var(--primary=
+); color: white; height: var(--header-h); display: flex; align-items: cente=
+r; justify-content: space-between; padding: 0px 16px; box-shadow: rgba(31, =
+78, 121, 0.3) 0px 2px 12px; }
+
+header h1 { font-size: 1.2rem; font-weight: 800; letter-spacing: -0.3px; }
+
+.icon-btn { background: rgba(255, 255, 255, 0.15); border-width: medium; bo=
+rder-style: none; border-color: currentcolor; border-image: initial; border=
+-radius: 50%; width: 38px; height: 38px; font-size: 1.1rem; cursor: pointer=
+; display: flex; align-items: center; justify-content: center; transition: =
+background 0.2s; }
+
+.icon-btn:active { background: rgba(255, 255, 255, 0.25); }
+
+.screen { display: none; padding: 16px; }
+
+.screen.active { display: block; }
+
+.bottom-nav { position: fixed; bottom: 0px; left: 0px; right: 0px; height: =
+var(--nav-h); background: var(--surface); border-top: 1px solid var(--borde=
+r); display: flex; z-index: 100; box-shadow: rgba(0, 0, 0, 0.08) 0px -2px 1=
+2px; }
+
+.bottom-nav button { flex: 1 1 0%; background: none; border-width: medium; =
+border-style: none; border-color: currentcolor; border-image: initial; disp=
+lay: flex; flex-direction: column; align-items: center; justify-content: ce=
+nter; gap: 3px; font-size: 1.3rem; cursor: pointer; transition: color 0.2s,=
+ transform 0.15s; padding: 8px 4px; }
+
+.bottom-nav button span { font-family: var(--font); font-size: 0.65rem; fon=
+t-weight: 700; color: var(--text-muted); letter-spacing: 0.3px; }
+
+.bottom-nav button.active span { color: var(--primary); }
+
+.bottom-nav button.active { transform: translateY(-2px); }
+
+.bottom-nav button:active { transform: scale(0.92); }
+
+.card { background: var(--surface); border-radius: var(--radius); padding: =
+16px; margin-bottom: 12px; box-shadow: var(--shadow); border: 1px solid var=
+(--border); transition: background 0.3s, border-color 0.3s; }
+
+.btn { background: var(--primary); color: white; border-width: medium; bord=
+er-style: none; border-color: currentcolor; border-image: initial; border-r=
+adius: var(--radius); padding: 13px 20px; font-family: var(--font); font-si=
+ze: 0.95rem; font-weight: 700; cursor: pointer; min-height: 48px; transitio=
+n: opacity 0.2s, transform 0.15s; }
+
+.btn:active { opacity: 0.85; transform: scale(0.97); }
+
+.btn-full { width: 100%; }
+
+.btn-danger { background: var(--danger); }
+
+.btn-icon { background: var(--primary); color: white; border-width: medium;=
+ border-style: none; border-color: currentcolor; border-image: initial; bor=
+der-radius: var(--radius); width: 48px; height: 48px; font-size: 1.5rem; fo=
+nt-weight: 700; cursor: pointer; flex-shrink: 0; transition: opacity 0.2s; =
+}
+
+input[type=3D"text"], input[type=3D"time"], textarea, select { width: 100%;=
+ padding: 13px 14px; border: 1.5px solid var(--border); border-radius: var(=
+--radius); font-family: var(--font); font-size: 16px; background: var(--sur=
+face); color: var(--text); margin-bottom: 10px; outline: none; transition: =
+border-color 0.2s, background 0.3s; appearance: none; }
+
+input:focus, textarea:focus, select:focus { border-color: var(--primary); }
+
+textarea { resize: vertical; }
+
+.input-row { display: flex; gap: 8px; margin-bottom: 12px; align-items: fle=
+x-start; }
+
+.input-row input { flex: 1 1 0%; margin-bottom: 0px; }
+
+.welcome-banner { background: linear-gradient(135deg, var(--primary) 0%, va=
+r(--primary-light) 100%); border-radius: var(--radius-lg); padding: 24px 20=
+px; text-align: center; color: white; margin-bottom: 16px; box-shadow: rgba=
+(31, 78, 121, 0.25) 0px 4px 16px; }
+
+.welcome-emoji { font-size: 2.5rem; margin-bottom: 8px; }
+
+.welcome-banner h2 { font-size: 1.4rem; font-weight: 800; margin-bottom: 4p=
+x; }
+
+.welcome-date { font-size: 0.85rem; opacity: 0.85; margin-top: 4px; }
+
+.stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; mar=
+gin-bottom: 14px; }
+
+.stat-card { background: var(--surface); border-radius: var(--radius); padd=
+ing: 16px 12px; text-align: center; box-shadow: var(--shadow); border: 1px =
+solid var(--border); }
+
+.stat-num { font-size: 2rem; font-weight: 800; color: var(--primary); line-=
+height: 1; }
+
+.stat-label { font-size: 0.75rem; color: var(--text-muted); margin-top: 4px=
+; font-weight: 600; }
+
+.stat-line { font-size: 0.85rem; color: var(--text-muted); font-weight: 600=
+; margin-bottom: 10px; }
+
+.filter-row { display: flex; gap: 8px; margin-bottom: 14px; }
+
+.filter-btn { flex: 1 1 0%; background: var(--surface); border: 1.5px solid=
+ var(--border); border-radius: 20px; padding: 8px 6px; font-family: var(--f=
+ont); font-size: 0.8rem; font-weight: 700; color: var(--text-muted); cursor=
+: pointer; transition: 0.2s; }
+
+.filter-btn.active { background: var(--primary); color: white; border-color=
+: var(--primary); }
+
+.task-item { display: flex; align-items: center; gap: 12px; background: var=
+(--surface); border-radius: var(--radius); padding: 14px; margin-bottom: 8p=
+x; box-shadow: var(--shadow); border: 1px solid var(--border); transition: =
+background 0.3s; }
+
+.task-item input[type=3D"checkbox"] { width: 22px; height: 22px; min-width:=
+ 22px; margin: 0px; padding: 0px; border-radius: 6px; cursor: pointer; acce=
+nt-color: var(--primary); }
+
+.task-text { flex: 1 1 0%; font-size: 0.95rem; font-weight: 600; word-break=
+: break-word; }
+
+.task-text.done { text-decoration: line-through; color: var(--text-muted); =
+}
+
+.task-delete { background: none; border-width: medium; border-style: none; =
+border-color: currentcolor; border-image: initial; color: var(--danger); fo=
+nt-size: 1.3rem; cursor: pointer; padding: 4px; line-height: 1; flex-shrink=
+: 0; opacity: 0.7; transition: opacity 0.2s; }
+
+.task-delete:active { opacity: 1; }
+
+.note-card { background: var(--surface); border-radius: var(--radius); padd=
+ing: 16px; margin-bottom: 10px; box-shadow: var(--shadow); border-left: 4px=
+ solid var(--accent); border-top: 1px solid var(--border); border-right: 1p=
+x solid var(--border); border-bottom: 1px solid var(--border); }
+
+.note-header { display: flex; justify-content: space-between; align-items: =
+start; margin-bottom: 8px; }
+
+.note-title { font-size: 1rem; font-weight: 800; }
+
+.note-delete { background: none; border-width: medium; border-style: none; =
+border-color: currentcolor; border-image: initial; color: var(--danger); fo=
+nt-size: 1.3rem; cursor: pointer; opacity: 0.6; line-height: 1; flex-shrink=
+: 0; }
+
+.note-body { font-size: 0.9rem; white-space: pre-wrap; color: var(--text); =
+line-height: 1.5; }
+
+.note-date { font-size: 0.75rem; color: var(--text-muted); margin-top: 8px;=
+ font-weight: 600; }
+
+.grade-overall { background: linear-gradient(135deg, var(--primary) 0%, var=
+(--primary-light) 100%); border-radius: var(--radius-lg); padding: 20px; co=
+lor: white; text-align: center; margin-bottom: 14px; box-shadow: rgba(31, 7=
+8, 121, 0.25) 0px 4px 16px; }
+
+.grade-overall-label { font-size: 0.85rem; opacity: 0.85; }
+
+.grade-overall-num { font-size: 3rem; font-weight: 800; line-height: 1; mar=
+gin-top: 4px; }
+
+.grade-subject-card { background: var(--surface); border-radius: var(--radi=
+us); padding: 14px 16px; margin-bottom: 10px; box-shadow: var(--shadow); bo=
+rder: 1px solid var(--border); display: flex; align-items: center; gap: 12p=
+x; }
+
+.grade-subject-name { flex: 1 1 0%; font-weight: 700; font-size: 0.95rem; }
+
+.grade-scores { font-size: 0.8rem; color: var(--text-muted); margin-top: 2p=
+x; }
+
+.grade-avg { font-size: 1.6rem; font-weight: 800; color: var(--primary); mi=
+n-width: 48px; text-align: right; }
+
+.day-tabs { display: flex; gap: 6px; margin-bottom: 16px; flex-wrap: nowrap=
+; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+
+.day-tabs::-webkit-scrollbar { display: none; }
+
+.day-tab { background: var(--surface); border: 1.5px solid var(--border); b=
+order-radius: 10px; padding: 8px 14px; font-family: var(--font); font-size:=
+ 0.85rem; font-weight: 700; color: var(--text-muted); cursor: pointer; whit=
+e-space: nowrap; transition: 0.2s; flex-shrink: 0; }
+
+.day-tab.active { background: var(--primary); color: white; border-color: v=
+ar(--primary); }
+
+.day-tab.today { border-color: var(--primary); color: var(--primary); }
+
+.day-tab.active.today { color: white; }
+
+.lesson-card { background: var(--surface); border-radius: var(--radius); pa=
+dding: 14px; margin-bottom: 8px; box-shadow: var(--shadow); border: 1px sol=
+id var(--border); display: flex; align-items: center; gap: 12px; }
+
+.lesson-time { background: var(--primary); color: white; border-radius: 8px=
+; padding: 8px 10px; font-size: 0.9rem; font-weight: 800; text-align: cente=
+r; min-width: 58px; flex-shrink: 0; }
+
+.lesson-info { flex: 1 1 0%; }
+
+.lesson-subject { font-weight: 700; font-size: 0.95rem; }
+
+.lesson-room { font-size: 0.8rem; color: var(--text-muted); margin-top: 2px=
+; }
+
+.lesson-delete { background: none; border-width: medium; border-style: none=
+; border-color: currentcolor; border-image: initial; color: var(--danger); =
+font-size: 1.3rem; cursor: pointer; opacity: 0.6; flex-shrink: 0; }
+
+.empty-state { text-align: center; padding: 30px 16px; color: var(--text-mu=
+ted); font-size: 0.9rem; font-weight: 600; }
+
+.empty-state-icon { font-size: 2.5rem; display: block; margin-bottom: 10px;=
+ opacity: 0.5; }
+
+@keyframes slideIn {=20
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.screen.active { animation: 0.2s ease 0s 1 normal none running slideIn; }
+------MultipartBoundary--ut2hDhmZ9sXNVlDYmRJAB8og4tzxzZKUclMxMF2NWq------
